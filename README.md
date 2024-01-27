@@ -14,6 +14,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in C++.
 - Winning Logic: Automatically detects and announces the winner or a draw.
 - Interactive: User-friendly interface for input and output.
 ## How to Run
+https://github.com/7swakits20/tictactoe/assets/156439440/b3587a19-7b39-4304-80d9-e2a3e180fc1f
 
 
 ## Usage
